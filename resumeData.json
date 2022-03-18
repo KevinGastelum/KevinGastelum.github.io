@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Kevin Gastelum",
+    "occupation": "Developer and aspiring Data Analyst",
+    "description": "With experience working with programming languages such as Python, SQL, Lua, and Javascript",
+    "image": "profilepic.jpg",
+    "bio": "Went to college for Computer Networking and have previous work experience in the field but found a greater passion in learning how to code. I love working with numbers, managing data, problem-solving and have found Data Analysis to be the perfect field to hone my skills in.",
+    "email": "gastelum.a.kevin@gmail.com",
+    "phone": "602-653-3740",
+    "address": {
+      "street": "1742 W Corona Ave",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zip": "85041"
+    },
+    "website": "https://kevin.lovestoblog.com/",
+    "resumedownload": "dataanalyst.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/KevinGastelum77",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kevin-alexis-gastelum-navarrete/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/KevinGastelum/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Short write-up of my skills to show off to employers",
+    "education": [
+      {
+        "school": "Data Analyst",
+        "degree": "",
+        "graduated": "December 2021 - Current",
+        "description": "Data Analyst experience working with Python, SQL, Excel, Tableau, Amazon S3, Google Cloud Platform, Jupyter notebook, Git and Github. Obtained knowledge and information on Data Analysis by following Alex The Analyst, Matt Brattin, Luke Barousse, and the Google Data Analytics Professional Certificate playlist on Youtube. "
+      },
+      {
+        "school": "Self-taught Programmer",
+        "degree": "",
+        "graduated": "July 2019 - Current",
+        "description": "Have not been to a University yet.. but I've been able to acquire all of my skills online for free thanks to the internet! I have acquired Math skills such as Geometry, Algebra, Trigonometry, Statistics & Probability and Linear Algebra from websites like Khan Academy, Brilliant and Math trainer. I've also Learned how to code by following courses on EDX_MITx, Coursera and Udemy as well as following Youtube channels like FreeCodeCamp, CS Dojo, Python Engineer, Derek Banas, Nicholas Renotte, Mosh, Corey Schafer, Tech with Tim, Clever Programmer, Academind, and Javascript Mastery."
+      },
+      {
+        "school": "South Mountain Community College",
+        "degree": "Network Security",
+        "graduated": "2014 - 2018",
+        "description": "Learned cybersecurity best practices and how to manage and maintain networks and servers. Gained experience in Windows CLI, Linux Bash, Windows Active Directory, VMWare, and Docker containers."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance Fullstack Developer",
+        "title": "",
+        "years": "July 2019 - Current",
+        "description": "Backend experience developing and deploying apps and websites with python using Django, NodeJS, and Heroku. Frontend experience working with HTML5, CSS3, Bootstrap V4, JavaScript, jQuery, React JS. Blockchain experience working with decentralized apps through Solidity smart contracts using ReactJS framework & Hardhat/Truffle dev tools. Integrated APIs to fetch blockchain data, get wallet balances, send transactions, get block hash and latest block information"
+      },
+      {
+        "company": "Apple",
+        "title": "Datacenter Technician",
+        "years": "February 2018 - March 2019",
+        "description": "Built, racked and cabled server enclosers in a neat and timely manner. Worked with Arista, Dell, HP, Sanmina, and Cisco equipment. Ran fiber cables from endpoints back to switches. Analyze, test, troubleshoot, and evaluate existing network system topology. Performed network maintenance to ensure networks operate correctly with minimal interruption and documented network related activities or tasks. Provided assistance with break/fix related tasks"
+      },
+      {
+        "company": "Sentry Insurance",
+        "title": "Bilingual Customer Service Rep",
+        "years": "April 2016 - July 2017",
+        "description": "Provided excellent customer care for customers through the insurance process via phone and email. Trained to assist other agents to provide exceptional customer service. Made changes to customers policies such as adding and removing drivers, coverages, and vehicles. Excelled in customer de-escalation. Assisted agents who had questions concerning state specific guidelines as well as the binding process to start new business policies."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      },
+      {
+        "name": "Excel",
+        "level": "60%"
+      },
+      {
+        "name": "Tableau & Power BI",
+        "level": "70%"
+      },
+      {
+        "name": "Google Cloud Platform & AMazon S3",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Data Analytics Fundamentals",
+        "category": "Amazon Certificate of completion",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/44/data-analytics-fundamentals"
+      },
+      {
+        "title": "Data Analyst Projects",
+        "category": "Repo of my Data Analytics projects",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://github.com/KevinGastelum/MyDataAnalystProjects"
+      },
+      {
+        "title": "12 Python Projects",
+        "category": "Repo of my Python projects",
+        "image": "original-thai-food.jpg",
+        "url": "https://github.com/KevinGastelum/12_BeginnerPythonProjects"
+      },
+      {
+        "title": "My Javascript Website",
+        "category": "My Personal Website",
+        "image": "resume-website.jpg",
+        "url": "https://kevin.lovestoblog.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here is where I should write something nice someone said about me..",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "This Kevin Gastelum kid must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of College and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
