@@ -97,16 +97,16 @@
         "level": "45%"
       },
       {
-        "name": "ReactJS",
-        "level": "30%"
-      },
-      {
         "name": "Excel",
         "level": "80%"
       },
       {
         "name": "Tableau & Power BI",
         "level": "60%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "30%"
       },
       {
         "name": "Google Cloud Platform & Amazon Web Services",
@@ -125,13 +125,13 @@
         "category": "Representing approx. 600hrs of coursework",
         "image": "google_cert.png",
         "url": "https://github.com/KevinGastelum/MyCerts"
-      },
+      },    
       {
-        "title": "My Pytorch Notebook",
-        "category": "Repo of my Pytorch Notebook",
-        "image": "pytorch_nb.png",
-        "url": "https://github.com/KevinGastelum/MyPytorchDeepDive"
-      },
+        "title": "My Data Analyst Projects",
+        "category": "My Personal Website",
+        "image": "PowerBI.png",
+        "url": "https://github.com/KevinGastelum/MyDataAnalysis"
+      },      
       {
         "title": "My Machine Learning Projects",
         "category": "Repo of my Machine Learning projects",
@@ -139,10 +139,10 @@
         "url": "https://github.com/KevinGastelum/Kev_MachineLearning"
       },
       {
-        "title": "My React.JS Website",
-        "category": "My Personal Website",
-        "image": "resume-website.jpg",
-        "url": "http://kevin.lovestoblog.com/"
+        "title": "My Pytorch Notebook",
+        "category": "Repo of my Pytorch Notebook",
+        "image": "pytorch_nb.png",
+        "url": "https://github.com/KevinGastelum/MyPytorchDeepDive"
       }
     ]
   },
