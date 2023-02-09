@@ -15,7 +15,7 @@
       "zip": "85041"
     },
     "website": "https://kevin.lovestoblog.com/",
-    "resumedownload": "https://drive.google.com/file/d/1Ta0GC-XRzFRfprdWDMeJDfLZbLS6sdwS/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1mN_I672tY7DEbTco7hnqFhzGj6qd5aSq/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -122,25 +122,25 @@
     "projects": [
       {
         "title": "My Certifications",
-        "category": "Representing approx. 600hrs of coursework",
+        "category": "Includes Google, AWS, CodeCademy and freeCodeCamp certs",
         "image": "google_cert.png",
         "url": "https://github.com/KevinGastelum/MyCerts"
       },    
       {
-        "title": "My Data Analyst Projects",
-        "category": "My Personal Website",
+        "title": "My Data Analysis",
+        "category": "Collection of my DA projects",
         "image": "PowerBI.png",
         "url": "https://github.com/KevinGastelum/MyDataAnalysis"
       },      
       {
         "title": "My Machine Learning Projects",
-        "category": "Repo of my Machine Learning projects",
+        "category": "Collection of my ML & DL projects",
         "image": "MLProjects.png",
         "url": "https://github.com/KevinGastelum/Kev_MachineLearning"
       },
       {
         "title": "My Pytorch Notebook",
-        "category": "Repo of my Pytorch Notebook",
+        "category": "In depth Pytorch notes",
         "image": "pytorch_nb.png",
         "url": "https://github.com/KevinGastelum/MyPytorchDeepDive"
       }
