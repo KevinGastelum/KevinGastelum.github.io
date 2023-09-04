@@ -2,20 +2,20 @@
   "main": {
     "name": "Kevin Gastelum",
     "occupation": "Developer/Data Analyst aspiring to be a Data Scientist",
-    "description": "With experience working with programming languages such as Python, SQL, Javascript, and Lua",
+    "description": "With experience working with programming languages such as Python, SQL, Javascript, R, and Lua",
     "image": "profilepic.jpg",
     "bio": "Went to college for Computer Networking and have previous work experience in the field but found a greater passion in learning how to code. I enjoy working with numbers, managing data, problem-solving and have found Data Analysis to be the perfect field to hone my skills in.",
 
     "email": "Gastelum.A.Kevin@gmail.com",
     "phone": "602-653-3740",
     "address": {
-      "street": "1742 W Corona Ave",
+      "street": "",
       "city": "Phoenix",
       "state": "Arizona",
       "zip": "85041"
     },
     "website": "https://kevin.lovestoblog.com/",
-    "resumedownload": "https://drive.google.com/file/d/1MorfxVaOYGN21Hzb81Y6QtaPcUffH7jK/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1mN_I672tY7DEbTco7hnqFhzGj6qd5aSq/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -29,7 +29,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/kevin-alexis-gastelum-navarrete/",
+        "url": "https://www.linkedin.com/in/kevin-gastelum/",
         "className": "fa fa-linkedin"
       },
       {
@@ -71,19 +71,20 @@
         "company": "ILG",
         "title": "Data Analyst",
         "years": "May 2022 - Current",
-        "description": "Export data batches from SAP containing thousands of rows worth of data into Excel to perform cleaning, sorting, and filtering as well as organizing data by designing formulas and implementing XLookup, Vlookup, Find/Search, Index/Match, Left/Right, Unique, Trim, IFs, SumIFs, CountIFs, IFError, IFNA, and Concatenate functions. Present data in a visually pleasing way by utilizing Pivot Tables, Charts, and Graphs"
+        "description": "Analyzed large datasets to identify trends, extract meaningful insights and help make informed business decisions. Utilizing tools such as Excel and Power BI to present findings via interactive data visualizations and pivot table reports. Implemented advanced Excel functions to organize and present data effectively."
       },
+      {
+        "company": "Ventagium",
+        "title": "Data Analytics Consultant",
+        "years": "March 2019 - May 2022",
+        "description": "Demonstrated coding abilities with multiple languages including Python, SQL, and JavaScript. Designed, created, updated, and maintained SQL databases including tables, structures, views and stored procedures. Wrote queries to store, sort, and retrieve a wide range of data. Devised business dashboards using Excel for individual clients looking to map out their business data. Data visualization through Power BI and Tableau. Managed data warehousing on AWS, Azure, and GCP."
+        
+      }, 
       {
         "company": "Apple",
-        "title": "Datacenter Technician",
+        "title": "Datacenter Analyst",
         "years": "February 2018 - March 2019",
         "description": "Built, racked and cabled server enclosers in a neat and timely manner. Worked with Arista, Dell, HP, Sanmina, and Cisco equipment. Provided assistance with break/fix related tasks. Ran fiber cables from endpoints back to switches. Analyze, test, troubleshoot, and evaluate existing network. Performed network maintenance to ensure networks operate correctly with minimal interruption and documented network related activities or tasks."
-      },
-      {
-        "company": "Sentry Insurance",
-        "title": "Bilingual Customer Service Rep",
-        "years": "April 2016 - July 2017",
-        "description": "Made changes to customers policies such as adding and removing coverages, vehicles, and drivers. Provided excellent customer care for customers through the insurance process all via phone and email. Trained to assist other agents to provide exceptional customer service and excel in customer de-escalation."
       }
     ],
     "skills": [
@@ -92,20 +93,20 @@
         "level": "55%"
       },
       {
-        "name": "ReactJS",
-        "level": "50%"
-      },
-      {
         "name": "SQL",
-        "level": "50%"
+        "level": "45%"
       },
       {
         "name": "Excel",
         "level": "80%"
       },
       {
-        "name": "Tableau & Power BI",
+        "name": "Power BI & Tableau",
         "level": "60%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "30%"
       },
       {
         "name": "Google Cloud Platform & Amazon Web Services",
@@ -120,28 +121,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Data Analytics Fundamentals",
-        "category": "Amazon Certificate of completion",
-        "image": "aws_cert.jpg",
-        "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/44/data-analytics-fundamentals"
-      },
+        "title": "My Certifications",
+        "category": "Includes Google, AWS, CodeCademy and freeCodeCamp certs",
+        "image": "google_cert.png",
+        "url": "https://github.com/KevinGastelum/MyCerts"
+      },    
       {
-        "title": "My Pytorch Notebook",
-        "category": "Repo of my Pytorch Notebook",
-        "image": "pytorch_nb.png",
-        "url": "https://github.com/KevinGastelum/MyPytorchDeepDive"
-      },
+        "title": "My Data Analysis",
+        "category": "Collection of my DA projects",
+        "image": "PowerBI.png",
+        "url": "https://github.com/KevinGastelum/MyDataAnalysis"
+      },      
       {
         "title": "My Machine Learning Projects",
-        "category": "Repo of my Machine Learning projects",
+        "category": "Collection of my ML & DL projects",
         "image": "MLProjects.png",
         "url": "https://github.com/KevinGastelum/Kev_MachineLearning"
       },
       {
-        "title": "My React.JS Website",
-        "category": "My Personal Website",
-        "image": "resume-website.jpg",
-        "url": "http://kevin.lovestoblog.com/"
+        "title": "My Pytorch Notebook",
+        "category": "In depth Pytorch notes",
+        "image": "pytorch_nb.png",
+        "url": "https://github.com/KevinGastelum/MyPytorchDeepDive"
       }
     ]
   },
