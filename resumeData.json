@@ -77,7 +77,7 @@
         "company": "Ventagium",
         "title": "Data Analytics Consultant",
         "years": "March 2019 - May 2022",
-        "description": "Demonstrated coding abilities with multiple languages including Python, SQL, and JavaScript. Designed, created, updated, and maintained SQL databases including tables, structures, views and stored procedures. Wrote queries to store, sort, and retrieve a wide range of data. Devised business dashboards using Excel for individual clients looking to map out their business data. Data visualization through Power BI or Tableau alongside tools such as PySpark for data processing and Cloud Platforms such as AWS, Azure and GCP for data warehousing."
+        "description": "Demonstrated coding abilities with multiple languages including Python, SQL, and JavaScript. Designed, created, updated, and maintained SQL databases including tables, structures, views and stored procedures. Wrote queries to store, sort, and retrieve a wide range of data. Devised business dashboards using Excel for individual clients looking to map out their business data. Data visualization through Power BI and Tableau. Managed data warehousing on AWS, Azure, and GCP."
         
       }, 
       {
@@ -101,7 +101,7 @@
         "level": "80%"
       },
       {
-        "name": "Tableau & Power BI",
+        "name": "Power BI & Tableau",
         "level": "60%"
       },
       {
