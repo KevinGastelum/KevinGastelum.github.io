@@ -9,7 +9,7 @@
     "email": "Gastelum.A.Kevin@gmail.com",
     "phone": "602-653-3740",
     "address": {
-      "street": "1742 W Corona Ave",
+      "street": "",
       "city": "Phoenix",
       "state": "Arizona",
       "zip": "85041"
@@ -71,11 +71,11 @@
         "company": "ILG",
         "title": "Data Analyst",
         "years": "May 2022 - Current",
-        "description": "Analyzed large datasets to identify trends, extract meaningful insights and help make informed business decisions. Utilizing tools such as Excel and Power BI to present findings via interactive data visualizations and pivot table reports. Implemented advanced Excel functions (Xlookup, Vlookup, Find/Search, Index/Match, Left/Right, Unique, Trim, IFs, SumIFs, CountIFs, IFError, IFNA, & Concatenate) to organize and present data effectively."
+        "description": "Analyzed large datasets to identify trends, extract meaningful insights and help make informed business decisions. Utilizing tools such as Excel and Power BI to present findings via interactive data visualizations and pivot table reports. Implemented advanced Excel functions to organize and present data effectively."
       },
       {
-        "company": "Freelancing",
-        "title": "Data Analyst / Developer",
+        "company": "Ventagium",
+        "title": "Data Analytics Consultant",
         "years": "March 2019 - May 2022",
         "description": "Demonstrated coding abilities with multiple languages including Python, SQL, and JavaScript. Designed, created, updated, and maintained SQL databases including tables, structures, views and stored procedures. Wrote queries to store, sort, and retrieve a wide range of data. Devised business dashboards using Excel for individual clients looking to map out their business data. Data visualization through Power BI or Tableau alongside tools such as PySpark for data processing and Cloud Platforms such as AWS, Azure and GCP for data warehousing."
         
