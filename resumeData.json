@@ -12,7 +12,7 @@
       "street": "",
       "city": "Phoenix",
       "state": "Arizona",
-      "zip": "85041"
+      "zip": ""
     },
     "website": "https://kevin.lovestoblog.com/",
     "resumedownload": "https://drive.google.com/file/d/1mN_I672tY7DEbTco7hnqFhzGj6qd5aSq/view?usp=sharing",
@@ -71,7 +71,7 @@
         "company": "ILG",
         "title": "Data Analyst",
         "years": "May 2022 - Current",
-        "description": "Analyzed large datasets to identify trends, extract meaningful insights and help make informed business decisions. Utilizing tools such as Excel and Power BI to present findings via interactive data visualizations and pivot table reports. Implemented advanced Excel functions to organize and present data effectively."
+        "description": "Analyzed large datasets to identify trends, extract meaningful insights and help make informed business decisions. Utilizing tools such as Excel, SQL and Power BI to present findings via interactive data visualizations and pivot table reports. Implemented advanced Excel functions to organize and present data effectively."
       },
       {
         "company": "Ventagium",
@@ -90,31 +90,31 @@
     "skills": [
       {
         "name": "Python",
-        "level": "55%"
+        "level": "65%"
       },
       {
         "name": "SQL",
-        "level": "45%"
+        "level": "70%"
       },
       {
         "name": "Excel",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Power BI & Tableau",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "ReactJS",
-        "level": "30%"
+        "level": "55%"
       },
       {
         "name": "Google Cloud Platform & Amazon Web Services",
-        "level": "45%"
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "55%"
+        "level": "70%"
       }
     ]
   },
@@ -122,7 +122,7 @@
     "projects": [
       {
         "title": "My Certifications",
-        "category": "Includes Google, AWS, CodeCademy and freeCodeCamp certs",
+        "category": "Includes Google, AWS, Coursera and FreeCodeCamp certs",
         "image": "google_cert.png",
         "url": "https://github.com/KevinGastelum/MyCerts"
       },    
